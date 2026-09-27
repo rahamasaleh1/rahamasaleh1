@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**rahamasaleh1/rahamasaleh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Ami
 
-Here are some ideas to get you started:
+I am Rahama Saleh, but most people call me Ami. I graduated from De Montfort University with a First Class degree in Applied Computing, and I currently work as a freelance AI Data Quality Analyst at Scale AI, where I check and improve the data that AI models learn from.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked in tech since 2018, starting on an IT service desk. Helping people with systems that confused them taught me something I still think about every day: most problems are not really technical, they come from a product not quite matching how people actually work. That is why I am building my career in product. During my placement at TicketShack, an event ticketing startup, I tested new features before they went live and helped the founder scope a referral scheme from the business rules through to how it would work technically. I am now completing the CFGdegree in Product Management with Code First Girls.
+
+## Things I have built
+
+**[MedVerify](https://github.com/rahamasaleh1/MedicineVerificationSystem)**: my dissertation project. It checks whether a medicine is genuine, counterfeit or expired, and it still works without internet. [Try the live app](https://rahamasaleh1.github.io/MedicineVerificationSystem/).
+
+**[Bank Marketing Analysis](https://github.com/rahamasaleh1/Bank-Marketing-Analysis)**: I dug into 41,000 customer records to work out who actually says yes to a bank's sales calls. My model found 57% of subscribers by calling only the top 20% of customers.
+
+**[Power Plant Energy Prediction](https://github.com/rahamasaleh1/Power-Plant-Energy-Prediction)**: a machine learning model that predicts a power plant's energy output from four sensor readings, with an average error of 0.5%.
+
+**[Subscription Leak Detector](https://github.com/rahamasaleh1/subscriptionleakdetector)**: a Python tool that reads a bank statement and finds the forgotten subscriptions quietly draining your account.
+
+## What I work with
+
+Python, JavaScript, HTML and CSS, SQL, Power BI, Jira, Figma and Notion.
+
+## Say hello
+
+I am always happy to talk about product, data or anything I have built here. You can find me on [LinkedIn](https://www.linkedin.com/in/rahamasaleh1).
