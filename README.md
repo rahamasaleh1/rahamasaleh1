@@ -20,4 +20,4 @@ Python, SQL, JavaScript, HTML and CSS, Jira, Postman, Power BI, Figma and Notion
 
 ## Say hello
 
-I am always happy to talk about product, data or anything I have built here. You can find me on [LinkedIn](https://www.linkedin.com/in/rahamasaleh1).
+I am always happy to talk about product, data or anything I have built here. You can find me on [LinkedIn](https://www.linkedin.com/in/rahamasaleh1) or see more of my work on my [portfolio](https://rahamasaleh1.github.io).
