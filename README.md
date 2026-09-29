@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I am Ami
 
 I am Rahama Saleh, but most people call me Ami. I graduated from De Montfort University with a First Class degree in Applied Computing, and I currently work as a freelance AI Data Quality Analyst at Scale AI, where I check and improve the data that AI models learn from.
