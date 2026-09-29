@@ -1,4 +1,4 @@
-# Hi, I am Ami
+# Hi!
 
 I am Rahama Saleh, but most people call me Ami. I graduated from De Montfort University with a First Class degree in Applied Computing. Most recently I tested a live event ticketing platform at TicketShack, and before that I worked as a freelance AI Data Quality Analyst at Scale AI, checking and improving the data that AI models learn from.
 
